@@ -1,4 +1,10 @@
-##Personio Candidate recruitment app##
+# Next.js boilerplate with routes koa and style component #
+
+**Install node 8.11 LTS**
+
+```
+https://nodejs.org/dist/v8.11.0/node-v8.11.0.pkg
+```
 
 **Development local:**
 
